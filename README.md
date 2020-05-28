@@ -6,6 +6,7 @@ This is a fun game that you can play anytime.
 
 ### Official Handball Ball
 - This is a green, bouncy kickball that is seven to eight inches in diameter.
+![Image of the Green Ball](https://github.com/ktbyers/handball/blob/master/green-ball.jpg)
 
 ### Serving
 - The ball must bounce once on each square in the diagram.
