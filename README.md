@@ -5,7 +5,7 @@ This is a fun game that you can play anytime.
 ![Image of Handball Court](https://github.com/ktbyers/handball/blob/master/handball-court.jpg)
 
 ### Official Handball Ball
-- This is a green, bouncy kickball that is eight to twelve inches in diameter.
+- This is a green, bouncy kickball that is seven to eight inches in diameter.
 
 ### Serving
 - The ball must bounce once on each square in the diagram.
